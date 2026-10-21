@@ -1,1 +1,13 @@
-{}
+{
+  "amethyst": {
+    "version": "0.9.9-rc-27",
+    "build": "S928BXXU6EZIF | ported by @thetechguy.69 | rc-27",
+    "kernel": "TechAmethyst v1.3 (6.1.172)",
+    "date": "2026-10-21",
+    "url": "https://github.com/TheTechGuy69/oneui-amethyst-ota/releases/download/ota-test/ota-test.zip",
+    "size": 204,
+    "sha256": "c7f0d14f514f102cedb1ffa0ea1d1ce5d902b2b06d5a67e81fb31ff84f0fd3f0",
+    "wipe": false,
+    "changelog": "- OTA pipeline test (not a real build)"
+  }
+}
