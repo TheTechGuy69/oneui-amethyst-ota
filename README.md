@@ -31,3 +31,8 @@ One entry per device codename:
 2. Replace the `amethyst` entry in `ota.json` and push. Phones see it on their next check (daily, or when opening Software update).
 
 Unofficial port. One UI is © Samsung. Kernel source: https://github.com/TheTechGuy69/techamethyst-kernel
+
+## Links
+- XDA thread: https://xdaforums.com/t/rom-17-unofficial-amethyst-quartzrom-v0-9-9-rc-38-one-ui-9-port-public-test.4807705/
+- Downloads: https://sourceforge.net/projects/one-ui-for-amethyst/files/QuartzROM/
+- Report bugs: https://github.com/TheTechGuy69/oneui-amethyst-ota/issues
