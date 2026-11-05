@@ -14,7 +14,7 @@ One entry per device codename:
     "build": "S928BXXU6EZIF | ported by @thetechguy.69 | rc-27",
     "kernel": "TechAmethyst v1.3 (6.1.172)",
     "date": "2026-10-21",
-    "url": "https://downloads.sourceforge.net/project/oneui-amethyst/v0.9.9-rc-27/oneui-amethyst_v0.9.9-rc-27.zip",
+    "url": "https://downloads.sourceforge.net/project/one-ui-for-amethyst/QuartzROM/QuartzROM-Beta-RC/0.9.9-rc-38/QuartzROM-v0.9.9-rc-38-amethyst-test.zip",
     "size": 7900000000,
     "sha256": "<sha256 of the zip>",
     "wipe": false,
